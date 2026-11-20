@@ -1,0 +1,7 @@
+site_name: AQX Logistics MCP Server & Air Freight API Docs
+site_description: Official developer documentation for the AQX Logistics Python MCP server, live US-to-international air cargo rate calculator, volumetric weight optimization, and 17TRACK Carrier 10154 shipment tracking.
+site_url: https://aqx-shipping-rates-mcp.readthedocs.io/
+repo_url: https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp
+nav:
+  - Overview & Quick Start: index.md
+  - 15 Corridor Rates & Customs Reference: corridors.md
