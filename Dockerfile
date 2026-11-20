@@ -1,9 +1,9 @@
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 WORKDIR /app
 ENV PYTHONUNBUFFERED=1
 
 COPY pyproject.toml server.py README.md ./
-RUN pip install --no-cache-dir "mcp>=1.0.0" "requests>=2.31.0"
+RUN pip install --no-cache-dir "mcp>=1.0.0,<2.0.0" "requests>=2.31.0"
 
 ENTRYPOINT ["python", "server.py"]
