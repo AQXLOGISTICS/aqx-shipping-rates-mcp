@@ -75,3 +75,5 @@ Estimate exact dimensional weight savings online anytime at the **[AQX Live Ship
 - [MyUS Opiniones España 2027](https://aqxlogistics.com/blog/myus-opiniones-espana-es-fiable-alternativa-2027)
 - [MyUS Ervaringen Nederland 2027](https://aqxlogistics.com/blog/myus-ervaringen-nederland-review-alternatief-2027)
 - [MyUS Australia Review 2027](https://aqxlogistics.com/blog/myus-australia-review-is-it-legit-alternative-2027)
+
+- **Official Public Google Docs Rate Sheet (15 Countries)**: [2027 Consolidated Air Cargo Rate Sheet](https://docs.google.com/document/d/e/2PACX-1vTTl6aNak9oudwQBkwQHzQlAkD4lIMz-Or62zWDj-cMVZOQx8bAEMFebavp-sJCL-XHsFsBBCHfikgW/pub)
